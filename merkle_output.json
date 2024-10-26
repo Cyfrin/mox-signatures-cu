@@ -1,0 +1,50 @@
+[
+    {
+        "inputs": [
+            "0x537C8f3d3E18dF5517a58B3fB9D9143697996802",
+            25000000000000000000
+        ],
+        "proof": [
+            "0x0fd7c981d39bece61f7499702bf59b3114a90e66b51ba2c53abdf7b62986c00a",
+            "0xe5ebd1e1b5a5478a944ecab36a9a954ac3b6b8216875f6524caa7a1d87096576"
+        ],
+        "root": "0x84c3d58dd79c873d8bda656bff8b8947dcdeb69c261df0f45fce2a0f9cbe3ae8",
+        "leaf": "0x8ebcc963f0588d1ded1ebd0d349946755f27e95d1917f9427a207d8935e04d4b"
+    },
+    {
+        "inputs": [
+            "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+            25000000000000000000
+        ],
+        "proof": [
+            "0x8ebcc963f0588d1ded1ebd0d349946755f27e95d1917f9427a207d8935e04d4b",
+            "0xe5ebd1e1b5a5478a944ecab36a9a954ac3b6b8216875f6524caa7a1d87096576"
+        ],
+        "root": "0x84c3d58dd79c873d8bda656bff8b8947dcdeb69c261df0f45fce2a0f9cbe3ae8",
+        "leaf": "0x0fd7c981d39bece61f7499702bf59b3114a90e66b51ba2c53abdf7b62986c00a"
+    },
+    {
+        "inputs": [
+            "0x2ea3970Ed82D5b30be821FAAD4a731D35964F7dd",
+            25000000000000000000
+        ],
+        "proof": [
+            "0x4fd31fee0e75780cd67704fbc43caee70fddcaa43631e2e1bc9fb233fada2394",
+            "0xa27a5391e4f38546f311f987ca751ad79d8ee005527b38d7a35b5397bc9c05b6"
+        ],
+        "root": "0x84c3d58dd79c873d8bda656bff8b8947dcdeb69c261df0f45fce2a0f9cbe3ae8",
+        "leaf": "0x0c7ef881bb675a5858617babe0eb12b538067e289d35d5b044ee76b79d335191"
+    },
+    {
+        "inputs": [
+            "0xf6dBa02C01AF48Cf926579F77C9f874Ca640D91D",
+            25000000000000000000
+        ],
+        "proof": [
+            "0x0c7ef881bb675a5858617babe0eb12b538067e289d35d5b044ee76b79d335191",
+            "0xa27a5391e4f38546f311f987ca751ad79d8ee005527b38d7a35b5397bc9c05b6"
+        ],
+        "root": "0x84c3d58dd79c873d8bda656bff8b8947dcdeb69c261df0f45fce2a0f9cbe3ae8",
+        "leaf": "0x4fd31fee0e75780cd67704fbc43caee70fddcaa43631e2e1bc9fb233fada2394"
+    }
+]
