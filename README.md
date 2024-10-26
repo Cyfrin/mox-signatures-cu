@@ -30,6 +30,7 @@ This is part of the Cyfrin Updraft Vyper Course.
 ```bash
 git clone https://github.com/cyfrin/mox-signatures-cu
 cd mox-signatures-cu
+mox install
 ```
 
 ## Quickstart
