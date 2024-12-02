@@ -1,10 +1,9 @@
+# pragma version 0.4.0
 """
-@ pragma version 0.4.0
-@ title Merkle Airdrop
-@ license MIT
-@ author Ciara Nightingale
-@ author Patrick Collins
-@ note - Airdrop tokens to users who can prove they are in a merkle tree
+@title Merkle Airdrop
+@license MIT
+@author Ciara Nightingale, Patrick Collins
+@notice - Airdrop tokens to users who can prove they are in a merkle tree
 """
 from ethereum.ercs import IERC20
 from snekmate.utils import merkle_proof_verification
