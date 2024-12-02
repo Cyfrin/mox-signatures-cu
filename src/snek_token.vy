@@ -1,7 +1,7 @@
+# pragma version 0.4.0
 """
-@ pragma version 0.4.0
-@ license MIT
-@ title snek_token
+@license MIT
+@title snek_token
 """
 # @dev We import and implement the `IERC20` interface,
 # which is a built-in interface of the Vyper compiler.
@@ -22,9 +22,6 @@ initializes: ow
 from snekmate.tokens import erc20
 
 initializes: erc20[ownable := ow]
-
-# Private... can we access this?
-initialSupply: uint256
 
 NAME: constant(String[25]) = "snek_token"
 SYMBOL: constant(String[5]) = "SNEK"
