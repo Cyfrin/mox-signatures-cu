@@ -1,4 +1,4 @@
-# pragma version 0.4.0
+# pragma version 0.4.1
 """
 @title Merkle Airdrop
 @license MIT
@@ -7,8 +7,6 @@
 """
 from ethereum.ercs import IERC20
 from snekmate.utils import merkle_proof_verification
-from snekmate.utils import message_hash_utils
-from snekmate.utils import signature_checker
 from snekmate.utils import ecdsa
 from snekmate.utils import eip712_domain_separator as eip712
 
